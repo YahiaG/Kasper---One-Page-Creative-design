@@ -24,13 +24,13 @@ Kasper is creative one page PSD template great for portfolio,agency or any other
 
 ### Screenshot
 
-[![](./screenshots/desktop_thumb.jpg)](./screenshots/desktop.jpg)
-[![](./screenshots/mobile_thumb.jpg)](./screenshots/mobile.jpg)
+[![](./screenshots/desktop_thumb.jpg)](./screenshots/desktop.jpg)"Click for full Image"
+[![](./screenshots/mobile_thumb.jpg)](./screenshots/mobile.jpg)"Click for full Image"
 
 
 ### Links
 
-- Repo URL: [Repo URL](https://github.com/YahiaG/Huddle-landing-page)
+- Repo URL: [Repo URL](https://github.com/YahiaG/Kasper---One-Page-Creative-design)
 - Live Site URL: [Live Site URL](https://yahiag.github.io/Huddle-landing-page/)
 
 ## My process
@@ -50,6 +50,6 @@ Kasper is creative one page PSD template great for portfolio,agency or any other
 
 ## Acknowledgments
 
-If I should tip my hat for someone in this field, this one will absolutely be Osama Elzero, I'm so grateful to him for all the Good courses he presents to all for free.
+If I should tip my hat for someone in this field, this one will absolutely be [Osama Elzero(https://elzero.org/)], I'm so grateful to him for all the Good courses he presents to all for free.
 
 > من علمني حرفاً صنت له عهداً, حفظت له وداً
