@@ -31,7 +31,7 @@ Kasper is creative one page PSD template great for portfolio,agency or any other
 ### Links
 
 - Repo URL: [Repo URL](https://github.com/YahiaG/Kasper---One-Page-Creative-design)
-- Live Site URL: [Live Site URL](https://yahiag.github.io/Huddle-landing-page/)
+- Live Site URL: [Live Site URL](https://yahiag.github.io/Kasper---One-Page-Creative-design/)
 
 ## My process
 
@@ -50,6 +50,6 @@ Kasper is creative one page PSD template great for portfolio,agency or any other
 
 ## Acknowledgments
 
-If I should tip my hat for someone in this field, this one will absolutely be [Osama Elzero(https://elzero.org/)], I'm so grateful to him for all the Good courses he presents to all for free.
+If I should tip my hat for someone in this field, this one will absolutely be [Osama Elzero](https://elzero.org/), I'm so grateful to him for all the Good courses he presents to all for free.
 
 > من علمني حرفاً صنت له عهداً, حفظت له وداً
