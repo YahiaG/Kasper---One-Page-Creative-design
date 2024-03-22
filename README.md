@@ -24,8 +24,8 @@ Kasper is creative one page PSD template great for portfolio,agency or any other
 
 ### Screenshot
 
-[![](./screenshots/desktop_thumb.jpg)](./screenshots/desktop.jpg)"Click for full Image"
-[![](./screenshots/mobile_thumb.jpg)](./screenshots/mobile.jpg)"Click for full Image"
+[![](./screenshots/desktop_thumb.jpg)](./screenshots/desktop.jpg "Click for full Image")
+[![](./screenshots/mobile_thumb.jpg)](./screenshots/mobile.jpg "Click for full Image")
 
 
 ### Links
